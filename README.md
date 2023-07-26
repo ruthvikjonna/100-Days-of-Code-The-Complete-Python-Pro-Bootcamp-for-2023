@@ -1,5 +1,5 @@
 # 100 Days of Code The Complete Python Pro Bootcamp for 2023
-What you’ll learn
+What you’ll learn:
 - You will master the Python programming language by building 100 unique projects over 100 days.
 - You will learn automation, game, app and web development, data science and machine learning all using Python.
 - You will be able to program in Python professionally
